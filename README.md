@@ -17,7 +17,7 @@ How to build and run an exercise
 2. Change into the exercise directory. For example, to build `cpp00/ex00`:
 
 ```bash
-cd cpp00/ex00
+cd cpp0/ex00
 make
 # run the produced binary (name depends on the Makefile, often the same as the folder)
 ./megaphone
@@ -45,7 +45,7 @@ This repo is organized like a "piscine" — a sequence of short, focused exercis
 
 Recommended progression and learning goals
 
-- Start with `cpp00` to learn basic I/O, compilation and small programs.
+- Start with `cpp0` to learn basic I/O, compilation and small programs.
 - Move through chapters in order (`cpp01`, `cpp02`, ...) to learn:
 	- Basic syntax, types, and control flow
 	- Functions, scope, and compilation units
