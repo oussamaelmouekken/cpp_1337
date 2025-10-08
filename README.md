@@ -69,9 +69,4 @@ Tips for learning OOP and C++
 - Prefer RAII (resources acquired in constructors and released in destructors) over manual new/delete.
 - Practice writing copy constructors and assignment operators where required by the exercise.
 
-Further resources
-
-- cppreference.com — detailed reference for the standard library and language features.
-- learncpp.com — friendly tutorials and explanations.
-- Your course or piscine materials — follow the exercise statements closely.
 
