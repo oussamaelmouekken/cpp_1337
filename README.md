@@ -75,9 +75,3 @@ Further resources
 - learncpp.com — friendly tutorials and explanations.
 - Your course or piscine materials — follow the exercise statements closely.
 
-If you'd like, I can:
-
-- Add a top-level `Makefile` or small script to build/run selected exercises.
-- Add a checklist or progress tracker to the repo so you can mark completed exercises.
-
-If you'd like a different README style, or a top-level Makefile/script added, tell me which features you want and I can add them.
